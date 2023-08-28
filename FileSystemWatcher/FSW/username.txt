@@ -1,0 +1,13 @@
+-------------------------------------------
+*Administrator:
+User: admin
+Pass: abc@123
+--------------------------------------------
+*NPC:
+User: 
+- kiennd
+- nguyentt
+- thinhnq
+- user1 
+- user2
+Pass: abc@123

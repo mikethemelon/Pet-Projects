@@ -1,0 +1,30 @@
+C:\Users\trung\Desktop\LAP TRINH AN TOAN\Project\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe.config
+C:\Users\trung\Desktop\LAP TRINH AN TOAN\Project\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe
+C:\Users\trung\Desktop\LAP TRINH AN TOAN\Project\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.pdb
+C:\Users\trung\Desktop\LAP TRINH AN TOAN\Project\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.csproj.AssemblyReference.cache
+C:\Users\trung\Desktop\LAP TRINH AN TOAN\Project\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.Properties.Resources.resources
+C:\Users\trung\Desktop\LAP TRINH AN TOAN\Project\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.csproj.GenerateResource.cache
+C:\Users\trung\Desktop\LAP TRINH AN TOAN\Project\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.csproj.CoreCompileInputs.cache
+C:\Users\trung\Desktop\LAP TRINH AN TOAN\Project\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.exe
+C:\Users\trung\Desktop\LAP TRINH AN TOAN\Project\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.pdb
+C:\Users\trung\Desktop\LAP TRINH AN TOAN\Project\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.FileSystemMonitor.resources
+C:\Users\trung\Desktop\LAP TRINH AN TOAN\Project\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.MDIParent1.resources
+C:\Users\trung\Desktop\LAP TRINH AN TOAN\Project\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.Login.resources
+C:\Users\trung\Desktop\LAP TRINH AN TOAN\Project\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.EvLog.resources
+C:\Users\trung\Desktop\LAP TRINH AN TOAN\Project\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.NewPass.resources
+C:\Users\Administrator\Desktop\Project\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe.config
+C:\Users\Administrator\Desktop\Project\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe
+C:\Users\Administrator\Desktop\Project\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.pdb
+C:\Users\Administrator\Desktop\Project\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.FileSystemMonitor.resources
+C:\Users\Administrator\Desktop\Project\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.EvLog.resources
+C:\Users\Administrator\Desktop\Project\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.NewPass.resources
+C:\Users\Administrator\Desktop\Project\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.Login.resources
+C:\Users\Administrator\Desktop\Project\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.MDIParent1.resources
+C:\Users\Administrator\Desktop\Project\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Project\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Project\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Project\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.exe
+C:\Users\Administrator\Desktop\Project\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.pdb
+C:\Users\Administrator\Desktop\Project\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Project\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.MDIParent2.resources
+C:\Users\Administrator\Desktop\Project\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.Register.resources
