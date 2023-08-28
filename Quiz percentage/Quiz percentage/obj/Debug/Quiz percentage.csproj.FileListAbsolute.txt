@@ -1,0 +1,11 @@
+C:\Users\kiend\Desktop\pet project\Quiz percentage\Quiz percentage\bin\Debug\Quiz percentage.exe.config
+C:\Users\kiend\Desktop\pet project\Quiz percentage\Quiz percentage\bin\Debug\Quiz percentage.exe
+C:\Users\kiend\Desktop\pet project\Quiz percentage\Quiz percentage\bin\Debug\Quiz percentage.pdb
+C:\Users\kiend\Desktop\pet project\Quiz percentage\Quiz percentage\obj\Debug\Quiz percentage.csproj.AssemblyReference.cache
+C:\Users\kiend\Desktop\pet project\Quiz percentage\Quiz percentage\obj\Debug\Quiz_percentage.Form1.resources
+C:\Users\kiend\Desktop\pet project\Quiz percentage\Quiz percentage\obj\Debug\Quiz_percentage.Properties.Resources.resources
+C:\Users\kiend\Desktop\pet project\Quiz percentage\Quiz percentage\obj\Debug\Quiz percentage.csproj.GenerateResource.cache
+C:\Users\kiend\Desktop\pet project\Quiz percentage\Quiz percentage\obj\Debug\Quiz percentage.csproj.CoreCompileInputs.cache
+C:\Users\kiend\Desktop\pet project\Quiz percentage\Quiz percentage\obj\Debug\Quiz percentage.exe
+C:\Users\kiend\Desktop\pet project\Quiz percentage\Quiz percentage\obj\Debug\Quiz percentage.pdb
+C:\Users\kiend\Desktop\pet project\Quiz percentage\Quiz percentage\obj\Debug\Quiz_percentage.Form2.resources
