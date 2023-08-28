@@ -1,0 +1,8 @@
+D:\Dao nguoc chuoi\Server\client\bin\Debug\client.exe.config
+D:\Dao nguoc chuoi\Server\client\bin\Debug\client.exe
+D:\Dao nguoc chuoi\Server\client\bin\Debug\client.pdb
+D:\Dao nguoc chuoi\Server\client\obj\Debug\client.csproj.AssemblyReference.cache
+D:\Dao nguoc chuoi\Server\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+D:\Dao nguoc chuoi\Server\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\Dao nguoc chuoi\Server\client\obj\Debug\client.exe
+D:\Dao nguoc chuoi\Server\client\obj\Debug\client.pdb

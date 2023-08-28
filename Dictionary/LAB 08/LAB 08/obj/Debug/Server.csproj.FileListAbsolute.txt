@@ -1,0 +1,21 @@
+C:\Users\SV\Desktop\LAB 08\LAB 08\bin\Debug\LAB 08.exe.config
+C:\Users\SV\Desktop\LAB 08\LAB 08\bin\Debug\LAB 08.exe
+C:\Users\SV\Desktop\LAB 08\LAB 08\bin\Debug\LAB 08.pdb
+C:\Users\SV\Desktop\LAB 08\LAB 08\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\SV\Desktop\LAB 08\LAB 08\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\SV\Desktop\LAB 08\LAB 08\obj\Debug\LAB 08.exe
+C:\Users\SV\Desktop\LAB 08\LAB 08\obj\Debug\LAB 08.pdb
+D:\LAB 08\LAB 08\bin\Debug\LAB 08.exe.config
+D:\LAB 08\LAB 08\bin\Debug\LAB 08.exe
+D:\LAB 08\LAB 08\bin\Debug\LAB 08.pdb
+D:\LAB 08\LAB 08\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\LAB 08\LAB 08\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\LAB 08\LAB 08\obj\Debug\LAB 08.exe
+D:\LAB 08\LAB 08\obj\Debug\LAB 08.pdb
+C:\Users\SV\Desktop\LAB 8 - Chat\LAB 08\LAB 08\bin\Debug\LAB 08.exe.config
+C:\Users\SV\Desktop\LAB 8 - Chat\LAB 08\LAB 08\bin\Debug\LAB 08.exe
+C:\Users\SV\Desktop\LAB 8 - Chat\LAB 08\LAB 08\bin\Debug\LAB 08.pdb
+C:\Users\SV\Desktop\LAB 8 - Chat\LAB 08\LAB 08\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\SV\Desktop\LAB 8 - Chat\LAB 08\LAB 08\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\SV\Desktop\LAB 8 - Chat\LAB 08\LAB 08\obj\Debug\LAB 08.exe
+C:\Users\SV\Desktop\LAB 8 - Chat\LAB 08\LAB 08\obj\Debug\LAB 08.pdb

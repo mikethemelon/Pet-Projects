@@ -1,0 +1,20 @@
+C:\Users\SV\Desktop\LAB 08\Client\bin\Debug\Client.exe.config
+C:\Users\SV\Desktop\LAB 08\Client\bin\Debug\Client.exe
+C:\Users\SV\Desktop\LAB 08\Client\bin\Debug\Client.pdb
+C:\Users\SV\Desktop\LAB 08\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\SV\Desktop\LAB 08\Client\obj\Debug\Client.exe
+C:\Users\SV\Desktop\LAB 08\Client\obj\Debug\Client.pdb
+D:\LAB 08\Client\bin\Debug\Client.exe.config
+D:\LAB 08\Client\bin\Debug\Client.exe
+D:\LAB 08\Client\bin\Debug\Client.pdb
+D:\LAB 08\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\LAB 08\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\LAB 08\Client\obj\Debug\Client.exe
+D:\LAB 08\Client\obj\Debug\Client.pdb
+C:\Users\SV\Desktop\LAB 8 - Chat\LAB 08\Client\bin\Debug\Client.exe.config
+C:\Users\SV\Desktop\LAB 8 - Chat\LAB 08\Client\bin\Debug\Client.exe
+C:\Users\SV\Desktop\LAB 8 - Chat\LAB 08\Client\bin\Debug\Client.pdb
+C:\Users\SV\Desktop\LAB 8 - Chat\LAB 08\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\SV\Desktop\LAB 8 - Chat\LAB 08\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\SV\Desktop\LAB 8 - Chat\LAB 08\Client\obj\Debug\Client.exe
+C:\Users\SV\Desktop\LAB 8 - Chat\LAB 08\Client\obj\Debug\Client.pdb

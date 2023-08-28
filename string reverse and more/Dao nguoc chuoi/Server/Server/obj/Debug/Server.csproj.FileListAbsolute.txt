@@ -1,0 +1,8 @@
+D:\Dao nguoc chuoi\Server\Server\bin\Debug\Server.exe.config
+D:\Dao nguoc chuoi\Server\Server\bin\Debug\Server.exe
+D:\Dao nguoc chuoi\Server\Server\bin\Debug\Server.pdb
+D:\Dao nguoc chuoi\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\Dao nguoc chuoi\Server\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+D:\Dao nguoc chuoi\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Dao nguoc chuoi\Server\Server\obj\Debug\Server.exe
+D:\Dao nguoc chuoi\Server\Server\obj\Debug\Server.pdb
